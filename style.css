@@ -1,0 +1,43 @@
+.logo{
+    width: 80px
+}
+.navbar-collapse{
+    margin-right: 20px;
+}
+.navbar{
+    background-color: #5f74709a;
+    /*position: fixed;
+    width: 100vw;*/
+}
+body{
+    background-color: #889696;   
+    width: 100%;
+    height: 100%;
+}
+.container{
+    margin-top:30px
+}
+.form-control{
+    background-color: #B8BDB5;
+    width:80%;
+    margin:0 auto
+}
+.form-control:focus{
+    box-shadow: 0px 1px 1px #8ab420 inset;
+    outline: 0 none;
+}
+.form-label{
+    display: block;
+    margin:0 auto;
+    text-align:center
+}
+.formContainer{
+    background-color: #D2D4C8
+} 
+footer{
+    background-color: #504d4d;
+    width: 100%;
+    position:static; /*mantener el footer abajo*/
+    bottom: 0;
+    
+}
