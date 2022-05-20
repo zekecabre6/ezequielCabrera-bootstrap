@@ -41,3 +41,25 @@ footer{
     bottom: 0;
     
 }
+.icon-text-text{
+    float: center;
+    width:60%;
+    padding:4% 4% 2% 0;
+
+}
+.social{
+    text-align:center;
+}
+.social li{
+    display: inline;
+}
+
+.social i{
+    font-size:900%;
+    margin:1%;
+    padding:1%;
+
+}
+video{
+    width:80vw;
+}
